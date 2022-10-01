@@ -1,0 +1,1 @@
+Hi 👋, Welcome to github "Praktikum Algoritma dan Pemrograman 1B 2022"
